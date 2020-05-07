@@ -73,6 +73,7 @@ auto install everything
 
 [![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-linux/master/img/whapken1.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-ApkCrypter-linux/master/img/whapken2.png)](https://www.youtube.com/channel/UCj6ekUzjItnjP6T7I9r1WMA?sub_confirmation=1 "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC )")
 
 
 
