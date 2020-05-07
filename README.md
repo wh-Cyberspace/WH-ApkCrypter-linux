@@ -60,7 +60,7 @@ auto install everything
 
  ☆ how to use in pc ⏬
  
-🏳 [WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace( PC )]( https://www.youtube.com/watch?v=x_rsAHpSfAs "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC ) ") 
+🏳 [comming soon ]( # "WH-ApkCrypter | google play protect Bypass 100% | wh-Cyberspace ( PC ) ") 
 
 
 
