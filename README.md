@@ -15,36 +15,37 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 
 # ➰ requirements PKG
-
-☆ Net framework 3.5  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
-
-☆ java > jdk & jre [Here]( https://raw.githubusercontent.com/wh-r47/java/master/jre-whbot.exe " JAVA JRE")
+auto install everything 
 
 
 # 💿 SYSTEM TEST
-1. Windows 10   [ Recommended System ]  
-
-2. Windows 8.1
-
-3. Windows 8
-
-4. Windows 7
+1. kali/parrot/ubuntu
+2. Android version ( 5.0 / 6.0 / 7.0 ) 
 
 
 
-# 💡 HOW TO download and run in WINDOWS
+# 💡 HOW TO install or run in linux
 
-1. Download Zip file https://github.com/wh-Cyberspace/WH-ApkCrypter/archive/master.zip
-2. Open up Windows directory
+1. git clone https://github.com/wh-Cyberspace/WH-ApkCrypter-linux.git
 
-3. Now, Unzip your download file (WH-ApkCrypter-master.zip) 
+2. cd WH-ApkCrypter-linux
 
-4. and open directory
+3. chmod +x WH-ApkCrypter-linux
 
-5. now , windows defender turn off real time protection [ optional ]
+4. bash WH-ApkCrypter-linux
 
-6. and run ( WH-ApkcrypterV1.0.exe )
- 
+5. now , select your operating system
+
+------5.1  kali/parrot/ubuntu = ( 1 )
+
+------5.2  Android termux = ( 2 )
+
+
+6. now install (1)
+
+------6.1  kali/parrot/ubuntu = ( 1 )
+
+------6.2  Android termux = ( 1 ) 
 
 
 
